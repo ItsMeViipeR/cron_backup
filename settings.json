@@ -1,6 +1,6 @@
 {
   "backupdir": ".",
   "outdir": "/Users/viiper/Desktop/out",
-  "delay": "720m",
+  "delay": "43200m",
   "differential": true
 }
